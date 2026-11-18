@@ -1,16 +1,26 @@
-## Hi there 👋
 
-<!--
-**shivamrathore35/shivamrathore35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Shivam Rathore 👋
 
-Here are some ideas to get you started:
+🎓 B.Tech Graduate in Computer Science & Engineering (AI & ML) | SSTC Bhilai, 2026
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 Interested in Artificial Intelligence, Machine Learning and Data Science.
+
+💻 Currently strengthening my skills in Python, SQL, Machine Learning and Deep Learning.
+
+🚀 Passionate about building practical projects and solving real-world problems through technology.
+
+### Technical Skills
+- Programming: Python, SQL
+- AI/ML: Machine Learning, Deep Learning
+- Tools: Git, GitHub, Jupyter Notebook
+- Database: MySQL
+
+### Currently Working On
+- Machine Learning Projects
+- Python Programming
+- Data Analysis
+- AI-based Applications
+
+### Connect With Me
+- LinkedIn: [Your LinkedIn URL]
+- Email: [Your Professional Email]
