@@ -22,5 +22,5 @@
 - AI-based Applications
 
 ### Connect With Me
-- LinkedIn: [Your LinkedIn URL]
-- Email: [Your Professional Email]
+- LinkedIn: [https://www.linkedin.com/in/shivam-rathore-339953389]
+- Email: [shivamrathore3516@gmail.com]
